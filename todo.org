@@ -2,3 +2,5 @@
 
 * TODO Sample task
   Created for initial setup
+* TODO first todo
+SCHEDULED: <2026-01-18 Sun>
