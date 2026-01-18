@@ -22,7 +22,7 @@ SCHEDULED: <2026-01-18 Sun>
 * TODO [#A] See
 SCHEDULED: <2026-01-20 Tue>
 * TODO Test task
-* TODO Nubukleder
+* TODO [#C] Nubukleder
 SCHEDULED: <2026-01-18 Sun>
 * TODO test repeater
 * TODO Test
