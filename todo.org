@@ -1,6 +1,7 @@
 #+TITLE: Todo
 
 * TODO Sample task
+SCHEDULED: <2026-01-18 Sun>
   Created for initial setup
 * TODO [#C] first todo
 SCHEDULED: <2026-01-18 Sun>
