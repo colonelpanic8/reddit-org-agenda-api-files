@@ -19,7 +19,7 @@ SCHEDULED: <2026-01-28 Wed>
 * TODO Xxxxx
 * TODO Drink Water
 * TODO [#A] See
-SCHEDULED: <2026-01-18 Sun>
+SCHEDULED: <2026-01-19 Mon>
 * TODO Test task
 * TODO Nubukleder
 SCHEDULED: <2026-01-19 Mon>
