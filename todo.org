@@ -5,7 +5,7 @@
 * TODO [#C] first todo
 SCHEDULED: <2026-01-18 Sun>
 * WAITING another
-SCHEDULED: <2026-01-16 Fri>
+SCHEDULED: <2026-01-19 Mon>
 * TODO 444
 SCHEDULED: <2026-01-19 Mon>
 * TODO task
