@@ -1,0 +1,4 @@
+#+TITLE: Todo
+
+* TODO Sample task
+  Created for initial setup
