@@ -17,7 +17,7 @@ SCHEDULED: <2026-01-28 Wed>
 * TODO [#A] Texting
 * TODO [#C] Hello
 * TODO Xxxxx
-* TODO [#C] Drink Water
+* DONE [#C] Drink Water
 SCHEDULED: <2026-01-18 Sun>
 * TODO [#A] See
 SCHEDULED: <2026-01-20 Tue>
