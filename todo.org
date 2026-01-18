@@ -24,3 +24,5 @@ SCHEDULED: <2026-01-18 Sun>
 * TODO Nubukleder
 SCHEDULED: <2026-01-18 Sun>
 * TODO test repeater
+* TODO Test
+SCHEDULED: <2026-01-20 Tue>
