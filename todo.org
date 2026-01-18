@@ -3,7 +3,7 @@
 * TODO Sample task
 SCHEDULED: <2026-01-19 Mon>
   Created for initial setup
-* TODO [#C] first todo
+* IN-PROGRESS [#C] first todo
 SCHEDULED: <2026-01-18 Sun>
 * WAITING another
 SCHEDULED: <2026-01-19 Mon>
