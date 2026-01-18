@@ -13,3 +13,4 @@ SCHEDULED: <2026-01-19 Mon>
 * TODO [#A] task99
 SCHEDULED: <2026-01-18 Sun>
 * IN-PROGRESS filtri
+* TODO Texting
