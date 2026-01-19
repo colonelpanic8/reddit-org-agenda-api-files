@@ -68,3 +68,5 @@ SCHEDULED: <2026-01-20 Tue>
 SCHEDULED: <2026-01-19 Mon 06:10>
 * TODO Check for HTTP 5002 errors on first load
 SCHEDULED: <2026-01-20 Tue>
+* TODO help
+SCHEDULED: <2026-01-19 Mon 08:07>
