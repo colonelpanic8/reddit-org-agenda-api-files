@@ -51,7 +51,7 @@ SCHEDULED: <2026-01-18 Sun>
 * TODO should auto schedule
 SCHEDULED: <2026-01-18 Sun>
 * TODO new scheuds
-SCHEDULED: <2026-01-18 Sun 22:22>
+SCHEDULED: <2026-01-20 Tue>
 * TODO Test todo
 SCHEDULED: <2026-01-18 Sun 23:21>
 * TODO Test
