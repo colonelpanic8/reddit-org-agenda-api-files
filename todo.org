@@ -47,7 +47,7 @@ SCHEDULED: <2026-01-19 Mon>
 * TODO Test scheduled 1768773289
 SCHEDULED: <2026-01-20 Tue>
 * TODO test
-SCHEDULED: <2026-01-18 Sun>
+SCHEDULED: <2026-01-20 Tue>
 * TODO should auto schedule
 SCHEDULED: <2026-01-20 Tue>
 * TODO new scheuds
