@@ -24,7 +24,7 @@ SCHEDULED: <2026-01-18 Sun>
 SCHEDULED: <2026-01-20 Tue>
 * TODO Test task
 * TODO [#C] Nubukleder
-SCHEDULED: <2026-01-18 Sun>
+SCHEDULED: <2026-01-23 Fri>
 * TODO test repeater
 * TODO Test
 SCHEDULED: <2026-01-20 Tue>
