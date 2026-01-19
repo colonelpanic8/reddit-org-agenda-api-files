@@ -90,3 +90,7 @@ SCHEDULED: <2026-01-19 Mon 16:41>
 SCHEDULED: <2026-01-19 Mon 16:43>
 * TODO capture-date-only-test-1768841192
 SCHEDULED: <2026-01-19 Mon 16:46>
+* TODO capture-with-time-test-1768841193
+SCHEDULED: <2026-01-19 Mon 14:30>
+* TODO agenda-visibility-test-1768841194
+SCHEDULED: <2026-01-19 Mon 16:46>
