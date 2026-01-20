@@ -4,7 +4,7 @@
 SCHEDULED: <2026-01-19 Mon>
   Created for initial setup
 * IN-PROGRESS [#C] first todo
-SCHEDULED: <2026-01-20 Tue>
+SCHEDULED: <2026-01-21 Wed>
 * TODO another
 SCHEDULED: <2026-01-21 Wed>
 * WAITING 444
