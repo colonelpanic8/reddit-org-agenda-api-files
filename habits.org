@@ -13,3 +13,8 @@ SCHEDULED: <2026-01-20 Tue>
 :PROPERTIES:
 :STYLE: habit
 :END:
+* TODO Daily meditation
+SCHEDULED: <2026-01-20 Tue>
+:PROPERTIES:
+:STYLE: habit
+:END:
