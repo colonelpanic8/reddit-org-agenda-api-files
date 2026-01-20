@@ -61,7 +61,7 @@ SCHEDULED: <2026-01-19 Mon 01:13>
 * TODO is this thing on?
 SCHEDULED: <2026-01-19 Mon 01:14>
 * TODO testing
-SCHEDULED: <2026-01-19 Mon>
+SCHEDULED: <2026-01-21 Wed>
 * TODO Something
 SCHEDULED: <2026-01-20 Tue>
 * TODO Test
