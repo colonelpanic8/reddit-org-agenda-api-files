@@ -111,7 +111,7 @@ SCHEDULED: <2026-01-19 Mon 23:00>
 * TODO date-only-test-1768842203
 SCHEDULED: <2026-01-30 Fri>
 * TODO immediate-test-1768842250
-SCHEDULED: <2026-01-19 Mon 10:00>
+SCHEDULED: <2026-01-21 Wed>
 * TODO capture-date-only-test-1768842400
 SCHEDULED: <2026-01-19 Mon 17:06>
 * TODO capture-with-time-test-1768842402
