@@ -12,3 +12,7 @@ SCHEDULED: <2026-01-20 Tue>
 :END:
 * TODO Implement user authentication
 SCHEDULED: <2026-01-20 Tue>
+** TODO Add JWT token validation
+:PROPERTIES:
+:CREATED: [2026-01-20 Tue 14:37]
+:END:
