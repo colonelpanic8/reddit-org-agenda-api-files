@@ -1,2 +1,6 @@
 * TODO Set up CI/CD pipeline
 SCHEDULED: <2026-01-20 Tue>
+* TODO Write API documentation
+SCHEDULED: <2026-01-20 Tue>
+* TODO Implement user authentication
+SCHEDULED: <2026-01-20 Tue>
