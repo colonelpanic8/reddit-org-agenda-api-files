@@ -149,3 +149,5 @@ SCHEDULED: <2026-01-20 Tue>
 SCHEDULED: <2026-01-20 Tue 09:45>
 
 SCHEDULED: <2026-01-20 Tue>
+* TODO oops I accidentally my nixos config
+SCHEDULED: <2026-01-20 Tue>
