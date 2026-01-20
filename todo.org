@@ -145,3 +145,7 @@ SCHEDULED: <2026-01-20 Tue>
 * IN-PROGRESS nice, like it
 
 SCHEDULED: <2026-01-20 Tue>
+* TODO [#A] where is my todo?
+SCHEDULED: <2026-01-20 Tue 09:45>
+
+SCHEDULED: <2026-01-20 Tue>
