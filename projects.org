@@ -6,5 +6,9 @@ SCHEDULED: <2026-01-20 Tue>
 :END:
 * TODO Write API documentation
 SCHEDULED: <2026-01-20 Tue>
+** TODO Document capture endpoints
+:PROPERTIES:
+:CREATED: [2026-01-20 Tue 14:37]
+:END:
 * TODO Implement user authentication
 SCHEDULED: <2026-01-20 Tue>
