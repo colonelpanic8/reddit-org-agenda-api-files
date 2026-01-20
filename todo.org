@@ -153,3 +153,9 @@ SCHEDULED: <2026-01-20 Tue>
 SCHEDULED: <2026-01-20 Tue>
 * TODO Submit tax forms
 DEADLINE: 2026-04-15 Wed
+* TODO Renew drivers license
+DEADLINE: 2026-03-01 Sun
+* TODO Weekly review
+SCHEDULED: <2026-01-20 Tue>
+* TODO Buy groceries :errand:home:
+* TODO Schedule dentist appointment :health:errand:
