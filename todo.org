@@ -15,7 +15,7 @@ SCHEDULED: <2026-01-19 Mon>
 SCHEDULED: <2026-01-28 Wed>
 * IN-PROGRESS filtri
 * TODO [#A] Texting
-SCHEDULED: <2026-01-19 Mon>
+SCHEDULED: <2026-01-20 Tue>
 * TODO [#C] Hello
 * TODO Xxxxx
 * DONE [#C] Drink Water
