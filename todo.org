@@ -161,3 +161,4 @@ SCHEDULED: <2026-01-20 Tue>
 * TODO Schedule dentist appointment :health:errand:
 * TODO Daily standup
 SCHEDULED: <2026-01-20 Tue>
+* TODO are things busted?
