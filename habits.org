@@ -2,9 +2,11 @@
 #+STARTUP: logdone
 
 * TODO Morning exercise
-SCHEDULED: <2026-01-26 Mon +1d>
+SCHEDULED: <2026-01-26 Sun .+1d>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 5
 :LAST_REPEAT: [2026-01-25 Sun 08:30]
 :END:
 :LOGBOOK:
@@ -15,9 +17,11 @@ SCHEDULED: <2026-01-26 Mon +1d>
 30 minutes of cardio or strength training
 
 * TODO Read for 30 minutes
-SCHEDULED: <2026-01-26 Mon +1d>
+SCHEDULED: <2026-01-26 Sun .+1d>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 7
 :LAST_REPEAT: [2026-01-25 Sun 21:00]
 :END:
 :LOGBOOK:
@@ -26,17 +30,21 @@ SCHEDULED: <2026-01-26 Mon +1d>
 :END:
 
 * TODO Practice coding
-SCHEDULED: <2026-01-26 Mon +1d>
+SCHEDULED: <2026-01-26 Sun .+1d>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 5
 :LAST_REPEAT: [2026-01-25 Sun 19:00]
 :END:
 Work on side projects or solve algorithm challenges
 
 * TODO Daily meditation
-SCHEDULED: <2026-01-26 Mon +1d>
+SCHEDULED: <2026-01-26 Sun .+1d>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 7
 :LAST_REPEAT: [2026-01-24 Sat 07:00]
 :END:
 :LOGBOOK:
@@ -46,16 +54,20 @@ SCHEDULED: <2026-01-26 Mon +1d>
 10-15 minutes mindfulness practice
 
 * TODO Review inbox zero
-SCHEDULED: <2026-01-26 Mon +1d>
+SCHEDULED: <2026-01-26 Sun .+1d>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 5
 :END:
 Process email and messages to empty inbox
 
 * TODO Water plants
-SCHEDULED: <2026-01-26 Mon +3d>
+SCHEDULED: <2026-01-26 Sun .+3d>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 2
 :LAST_REPEAT: [2026-01-25 Sun 10:00]
 :END:
 :LOGBOOK:
@@ -65,9 +77,11 @@ SCHEDULED: <2026-01-26 Mon +3d>
 Check soil moisture before watering
 
 * TODO Backup important files
-SCHEDULED: <2026-01-26 Mon +1w>
+SCHEDULED: <2026-01-26 Sun .+1w>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1m
+:OWH_REPETITIONS_REQUIRED: 4
 :LAST_REPEAT: [2026-01-19 Mon 14:00]
 :END:
 :LOGBOOK:
@@ -77,23 +91,29 @@ SCHEDULED: <2026-01-26 Mon +1w>
 Weekly backup to external drive and cloud
 
 * TODO Review weekly goals
-SCHEDULED: <2026-01-26 Mon +1w>
+SCHEDULED: <2026-01-26 Sun .+1w>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1m
+:OWH_REPETITIONS_REQUIRED: 4
 :END:
 Sunday evening planning session
 
 * TODO Clean desk
-SCHEDULED: <2026-01-26 Mon +2d>
+SCHEDULED: <2026-01-26 Sun .+2d>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 3
 :END:
 Tidy workspace every couple days
 
 * TODO Take vitamins
-SCHEDULED: <2026-01-26 Mon +1d>
+SCHEDULED: <2026-01-26 Sun .+1d>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 7
 :LAST_REPEAT: [2026-01-25 Sun 08:00]
 :END:
 :LOGBOOK:
@@ -105,8 +125,10 @@ SCHEDULED: <2026-01-26 Mon +1d>
 :END:
 
 * TODO Check calendar for tomorrow
-SCHEDULED: <2026-01-26 Mon +1d>
+SCHEDULED: <2026-01-26 Sun .+1d>
 :PROPERTIES:
 :STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 5
 :END:
 Evening review of next day's schedule
