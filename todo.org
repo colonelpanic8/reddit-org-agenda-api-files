@@ -5,7 +5,7 @@ SCHEDULED: <2026-01-19 Mon>
   Created for initial setup
 * TODO [#A] first todo
 SCHEDULED: <2026-01-23 Fri>
-* TODO another
+* DONE another
 SCHEDULED: <2026-01-21 Wed>
 * WAITING 444
 SCHEDULED: <2026-01-20 Tue> DEADLINE: <2026-01-21 Wed>
