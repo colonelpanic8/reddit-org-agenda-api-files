@@ -1,20 +1,76 @@
+#+TITLE: Habits
+
 * TODO Morning exercise
 SCHEDULED: <2026-01-26 Sun +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
+30 minutes of cardio or strength training
+
 * TODO Read for 30 minutes
 SCHEDULED: <2026-01-26 Sun +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
+
 * TODO Practice coding
 SCHEDULED: <2026-01-26 Sun +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
+Work on side projects or algorithm challenges
+
 * TODO Daily meditation
 SCHEDULED: <2026-01-26 Sun +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
+10-15 minutes mindfulness practice
+
+* TODO Review inbox zero
+SCHEDULED: <2026-01-26 Sun +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+Process email and messages
+
+* TODO Water plants
+SCHEDULED: <2026-01-26 Sun +3d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+Check soil moisture before watering
+
+* TODO Backup important files
+SCHEDULED: <2026-01-26 Sun +1w>
+:PROPERTIES:
+:STYLE: habit
+:END:
+Weekly backup to external drive and cloud
+
+* TODO Review weekly goals
+SCHEDULED: <2026-01-26 Sun +1w>
+:PROPERTIES:
+:STYLE: habit
+:END:
+Sunday evening planning session
+
+* TODO Clean desk
+SCHEDULED: <2026-01-26 Sun +2d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+Tidy workspace
+
+* TODO Take vitamins
+SCHEDULED: <2026-01-26 Sun +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+
+* TODO Check calendar for tomorrow
+SCHEDULED: <2026-01-26 Sun +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+Evening review of next day's schedule
