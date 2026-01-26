@@ -2,7 +2,7 @@
 #+STARTUP: logdone
 
 * TODO Morning exercise
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +1d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2026-01-25 Sun 08:30]
@@ -15,7 +15,7 @@ SCHEDULED: <2026-01-26 Mon>
 30 minutes of cardio or strength training
 
 * TODO Read for 30 minutes
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +1d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2026-01-25 Sun 21:00]
@@ -26,7 +26,7 @@ SCHEDULED: <2026-01-26 Mon>
 :END:
 
 * TODO Practice coding
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +1d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2026-01-25 Sun 19:00]
@@ -34,7 +34,7 @@ SCHEDULED: <2026-01-26 Mon>
 Work on side projects or solve algorithm challenges
 
 * TODO Daily meditation
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +1d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2026-01-24 Sat 07:00]
@@ -46,14 +46,14 @@ SCHEDULED: <2026-01-26 Mon>
 10-15 minutes mindfulness practice
 
 * TODO Review inbox zero
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
 Process email and messages to empty inbox
 
 * TODO Water plants
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +3d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2026-01-25 Sun 10:00]
@@ -62,10 +62,10 @@ SCHEDULED: <2026-01-26 Mon>
 - State "DONE"       from "TODO"       [2026-01-25 Sun 10:00]
 - State "DONE"       from "TODO"       [2026-01-22 Thu 09:30]
 :END:
-Check soil moisture before watering (every 3 days)
+Check soil moisture before watering
 
 * TODO Backup important files
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +1w>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2026-01-19 Mon 14:00]
@@ -77,21 +77,21 @@ SCHEDULED: <2026-01-26 Mon>
 Weekly backup to external drive and cloud
 
 * TODO Review weekly goals
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +1w>
 :PROPERTIES:
 :STYLE: habit
 :END:
 Sunday evening planning session
 
 * TODO Clean desk
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +2d>
 :PROPERTIES:
 :STYLE: habit
 :END:
 Tidy workspace every couple days
 
 * TODO Take vitamins
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +1d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2026-01-25 Sun 08:00]
@@ -105,7 +105,7 @@ SCHEDULED: <2026-01-26 Mon>
 :END:
 
 * TODO Check calendar for tomorrow
-SCHEDULED: <2026-01-26 Mon>
+SCHEDULED: <2026-01-26 Mon +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
