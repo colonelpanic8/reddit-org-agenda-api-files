@@ -1,4 +1,25 @@
+#+TITLE: Work Tasks
+
 * TODO Review quarterly report
-SCHEDULED: <2026-01-20 Tue>
+SCHEDULED: <2026-01-27 Tue>
+
 * TODO Prepare team meeting agenda
-SCHEDULED: <2026-01-20 Tue>
+SCHEDULED: <2026-01-27 Tue 09:00>
+
+* TODO Weekly 1:1 with manager
+SCHEDULED: <2026-01-28 Wed 11:00 +1w>
+Recurring weekly sync
+
+* TODO Update project status
+SCHEDULED: <2026-01-27 Tue +1w>
+Friday EOD status update
+
+* TODO Review expense reports
+SCHEDULED: <2026-02-01 Sun +1m>
+Monthly expense review
+
+* IN-PROGRESS Sprint planning
+Working on Q1 sprint breakdown
+
+* WAITING Vendor contract approval
+Pending legal review

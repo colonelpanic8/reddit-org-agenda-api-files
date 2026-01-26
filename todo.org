@@ -1,165 +1,90 @@
 #+TITLE: Todo
+#+STARTUP: overview
 
-* TODO Sample task
-SCHEDULED: <2026-01-19 Mon>
-  Created for initial setup
-* TODO [#A] first todo
-SCHEDULED: <2026-01-23 Fri>
-* DONE another
-SCHEDULED: <2026-01-21 Wed>
-* WAITING 444
-SCHEDULED: <2026-01-20 Tue> DEADLINE: <2026-01-21 Wed>
-* DONE task
-SCHEDULED: <2026-01-19 Mon>
-* TODO [#A] task99
-SCHEDULED: <2026-01-28 Wed>
-* IN-PROGRESS filtri
-* TODO [#A] Texting
-SCHEDULED: <2026-01-20 Tue>
-* TODO [#C] Hello
-* TODO Xxxxx
-* DONE [#C] Drink Water
-SCHEDULED: <2026-01-18 Sun>
-* TODO [#A] See
-SCHEDULED: <2026-01-20 Tue>
-* TODO Test task
-* TODO [#C] Nubukleder
-SCHEDULED: <2026-01-23 Fri>
-* TODO test repeater
-* TODO Test
-SCHEDULED: <2026-01-20 Tue>
-* WAITING [#C] huhu
-SCHEDULED: <2026-01-29 Thu>
-* TODO Studf
-* TODO Hiii!
-* TODO Where!
-* TODO Meh
-* TODO Whqt is this
-* TODO Test task
-* TODO Teddy
-SCHEDULED: <2026-01-19 Mon>
-* TODO Testing
-* TODO new todo
-* TODO task
-* TODO foo
-* TODO Test scheduling 1768772566
-* TODO another thing
-* TODO Test scheduled 1768773289
-SCHEDULED: <2026-01-20 Tue>
-* TODO test
-SCHEDULED: <2026-01-20 Tue>
-* TODO should auto schedule
-SCHEDULED: <2026-01-20 Tue>
-* TODO new scheuds
-SCHEDULED: <2026-01-20 Tue>
-* TODO Test todo
-SCHEDULED: <2026-01-20 Tue>
-* TODO Test
-SCHEDULED: <2026-01-19 Mon>
-* TODO help
-SCHEDULED: <2026-01-19 Mon 01:13>
-* TODO is this thing on?
-SCHEDULED: <2026-01-19 Mon 01:14>
-* TODO testing
-SCHEDULED: <2026-01-21 Wed>
-* TODO Something
-SCHEDULED: <2026-01-20 Tue>
-* TODO Test
-SCHEDULED: <2026-01-20 Tue>
-* TODO Check for HTTP 5002 errors on first load
-SCHEDULED: <2026-01-20 Tue>
-* TODO help
-SCHEDULED: <2026-01-19 Mon 08:07>
-* TODO test
-SCHEDULED: <2026-01-19 Mon 08:10>
-* TODO new cap
-SCHEDULED: <2026-01-19 Mon 08:10>
-* TODO huh
-SCHEDULED: <2026-01-19 Mon 16:29>
-* TODO debug-test-1768840642
-SCHEDULED: <2026-01-19 Mon 16:37>
-* TODO past-time-test-1768840679
-SCHEDULED: <2026-01-19 Mon 08:00>
-* TODO frontend-sim-1768840815
-SCHEDULED: <2026-01-19 Mon 16:40>
-* TODO past-morning-1768840829
-SCHEDULED: <2026-01-19 Mon 06:00>
-* TODO no-sched-1768840865
-SCHEDULED: <2026-01-19 Mon 16:41>
-* TODO only-title-1768840996
-SCHEDULED: <2026-01-19 Mon 16:43>
-* TODO capture-date-only-test-1768841192
-SCHEDULED: <2026-01-19 Mon 16:46>
-* TODO capture-with-time-test-1768841193
-SCHEDULED: <2026-01-20 Tue>
-* TODO agenda-visibility-test-1768841194
-SCHEDULED: <2026-01-19 Mon 16:46>
-* TODO raw-file-check-1768841373
-SCHEDULED: <2026-01-19 Mon 16:49>
-* TODO past-time-agenda-test-1768841973
-SCHEDULED: <2026-01-19 Mon 02:00>
-* TODO Hack the planet!
-SCHEDULED: <2026-01-19 Mon 16:59>
-* TODO tz-test-yesterday-1768842025
-SCHEDULED: <2026-01-18 Sun 23:00>
-* TODO test-template-1768842137
-SCHEDULED: <2026-01-19 Mon 17:02>
-* TODO past-time-test-1768842203
-SCHEDULED: <2026-01-19 Mon 02:00>
-* TODO future-time-test-1768842203
-SCHEDULED: <2026-01-19 Mon 23:00>
-* TODO date-only-test-1768842203
-SCHEDULED: <2026-01-30 Fri>
-* TODO immediate-test-1768842250
-SCHEDULED: <2026-01-21 Wed>
-* TODO capture-date-only-test-1768842400
-SCHEDULED: <2026-01-19 Mon 17:06>
-* TODO capture-with-time-test-1768842402
-SCHEDULED: <2026-01-19 Mon 14:30>
-* TODO agenda-visibility-test-1768842402
-SCHEDULED: <2026-01-19 Mon 17:06>
-* TODO past-time-agenda-test-1768842404
-SCHEDULED: <2026-01-19 Mon 02:00>
-* TODO future-time-agenda-test-1768842406
-SCHEDULED: <2026-01-19 Mon 23:59>
-* TODO test cap
-SCHEDULED: <2026-01-19 Mon 17:19>
-* TODO new test cap
-SCHEDULED: <2026-01-19 Mon 17:19>
-* TODO afdfdasfd
-SCHEDULED: <2026-01-19 Mon>
-* TODO f89003223
-SCHEDULED: <2026-01-19 Mon>
-* TODO fdafdsa
-SCHEDULED: <2026-01-19 Mon>
-* TODO test
-SCHEDULED: <2026-01-19 Mon>
-* TODO fdsa
-SCHEDULED: <2026-01-19 Mon>
-* TODO fdsfsafsadsafdsafdsafdsafdsaf
-SCHEDULED: <2026-01-19 Mon>
-* TODO test from debugging
-SCHEDULED: <2026-01-19 Mon>
-* TODO New
-SCHEDULED: <2026-01-20 Tue>
-* IN-PROGRESS nice, like it
+* Recurring Tasks
+** TODO Weekly review
+SCHEDULED: <2026-01-26 Mon +1w>
+Review accomplishments and plan next week
 
-SCHEDULED: <2026-01-20 Tue>
-* TODO [#A] where is my todo?
-SCHEDULED: <2026-01-20 Tue 09:45>
+** TODO Pay rent
+SCHEDULED: <2026-02-01 Sun +1m>
+First of each month
 
+** TODO Check smoke detectors
+SCHEDULED: <2026-02-01 Sun +3m>
+Quarterly safety check
+
+** TODO Water office plants
+SCHEDULED: <2026-01-27 Tue +3d>
+Every 3 days
+
+** TODO Daily standup
+SCHEDULED: <2026-01-27 Tue .+1d>
+9:30am team sync (restarts from completion)
+
+** TODO Review subscriptions
+SCHEDULED: <2026-02-26 Thu +1m>
+Monthly check for unused services
+
+* Tasks with Deadlines
+** TODO Submit tax forms
+DEADLINE: <2026-04-15 Wed>
+Federal and state returns
+
+** TODO Renew drivers license
+DEADLINE: <2026-03-01 Sun>
+Expires next month
+
+** TODO [#A] Complete project proposal
+DEADLINE: <2026-01-31 Sat> SCHEDULED: <2026-01-27 Tue>
+High priority - due end of month
+
+* Prioritized Tasks
+** TODO [#A] Fix production bug
+SCHEDULED: <2026-01-26 Mon>
+Critical issue affecting users
+
+** TODO [#B] Review pull requests
+SCHEDULED: <2026-01-26 Mon>
+Team code reviews
+
+** TODO [#C] Update documentation
+Nice to have when time permits
+
+* Tagged Tasks
+** TODO Buy groceries :errand:home:
+** TODO Schedule dentist appointment :health:errand:
+** TODO Call mom :family:phone:
+** TODO Research new laptop :shopping:tech:
+
+* Scheduled Tasks
+** TODO Team meeting
+SCHEDULED: <2026-01-27 Tue 10:00>
+Discuss Q1 roadmap
+
+** TODO Doctor appointment
+SCHEDULED: <2026-01-30 Fri 14:30>
+Annual checkup
+
+** TODO Lunch with Alex
+SCHEDULED: <2026-01-28 Wed 12:00>
+
+* In Progress
+** IN-PROGRESS Refactor authentication module
+Started working on OAuth2 integration
+
+** IN-PROGRESS Write blog post
+Draft about org-mode workflows
+
+* Waiting
+** WAITING Feedback on design mockups
 SCHEDULED: <2026-01-20 Tue>
-* TODO oops I accidentally my nixos config
-SCHEDULED: <2026-01-20 Tue>
-* TODO Submit tax forms
-DEADLINE: 2026-04-15 Wed
-* TODO Renew drivers license
-DEADLINE: 2026-03-01 Sun
-* TODO Weekly review
-SCHEDULED: <2026-01-20 Tue>
-* TODO Buy groceries :errand:home:
-* TODO Schedule dentist appointment :health:errand:
-* TODO Daily standup
-SCHEDULED: <2026-01-20 Tue>
-* TODO are things busted?
-* TODO just a test
+Waiting for client response
+
+** WAITING Parts delivery
+Ordered components for hardware project
+
+* Someday/Maybe
+** TODO Learn Rust
+** TODO Build a mechanical keyboard
+** TODO Start a podcast

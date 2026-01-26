@@ -1,18 +1,31 @@
-* TODO Set up CI/CD pipeline
-SCHEDULED: <2026-01-20 Tue>
-** TODO Configure GitHub Actions
-:PROPERTIES:
-:CREATED: [2026-01-20 Tue 14:37]
-:END:
-* TODO Write API documentation
-SCHEDULED: <2026-01-20 Tue>
-** TODO Document capture endpoints
-:PROPERTIES:
-:CREATED: [2026-01-20 Tue 14:37]
-:END:
-* TODO Implement user authentication
-SCHEDULED: <2026-01-20 Tue>
-** TODO Add JWT token validation
-:PROPERTIES:
-:CREATED: [2026-01-20 Tue 14:37]
-:END:
+#+TITLE: Projects
+
+* Project Alpha
+Tasks for the main product release
+** TODO Set up CI/CD pipeline
+SCHEDULED: <2026-01-27 Tue>
+*** TODO Configure GitHub Actions
+*** TODO Set up deployment automation
+*** TODO Add test coverage reporting
+** TODO Write API documentation
+DEADLINE: <2026-02-07 Sun>
+*** TODO Document capture endpoints
+*** TODO Add example requests
+** IN-PROGRESS Implement user authentication
+*** DONE Design auth flow
+*** IN-PROGRESS Add JWT token validation
+*** TODO Add refresh token support
+
+* Project Beta
+Experimental features
+** TODO Research GraphQL integration
+** TODO Prototype real-time sync
+SCHEDULED: <2026-02-03 Tue>
+** TODO Performance benchmarks
+
+* Project Gamma
+Internal tooling improvements
+** TODO Automate deployment scripts
+SCHEDULED: <2026-01-30 Fri>
+** TODO Set up monitoring dashboards
+** TODO Create runbook documentation

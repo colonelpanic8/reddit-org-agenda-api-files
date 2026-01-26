@@ -1,20 +1,112 @@
+#+TITLE: Habits
+#+STARTUP: logdone
+
 * TODO Morning exercise
-SCHEDULED: <2026-01-20 Tue>
+SCHEDULED: <2026-01-26 Mon .+1d>
 :PROPERTIES:
 :STYLE: habit
+:LAST_REPEAT: [2026-01-25 Sun 08:30]
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-25 Sun 08:30]
+- State "DONE"       from "TODO"       [2026-01-24 Sat 07:45]
+- State "DONE"       from "TODO"       [2026-01-23 Fri 08:15]
+:END:
+30 minutes of cardio or strength training
+
 * TODO Read for 30 minutes
-SCHEDULED: <2026-01-20 Tue>
+SCHEDULED: <2026-01-26 Mon .+1d>
 :PROPERTIES:
 :STYLE: habit
+:LAST_REPEAT: [2026-01-25 Sun 21:00]
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-25 Sun 21:00]
+- State "DONE"       from "TODO"       [2026-01-24 Sat 20:30]
+:END:
+
 * TODO Practice coding
-SCHEDULED: <2026-01-20 Tue>
+SCHEDULED: <2026-01-26 Mon .+1d>
 :PROPERTIES:
 :STYLE: habit
+:LAST_REPEAT: [2026-01-25 Sun 19:00]
 :END:
+Work on side projects or solve algorithm challenges
+
 * TODO Daily meditation
-SCHEDULED: <2026-01-20 Tue>
+SCHEDULED: <2026-01-26 Mon .+1d/3d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2026-01-24 Sat 07:00]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-24 Sat 07:00]
+- State "DONE"       from "TODO"       [2026-01-22 Thu 06:45]
+:END:
+10-15 minutes mindfulness practice. Flexible: every 1-3 days.
+
+* TODO Review inbox zero
+SCHEDULED: <2026-01-26 Mon .+1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
+Process email and messages to empty inbox
+
+* TODO Water plants
+SCHEDULED: <2026-01-28 Wed .+3d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2026-01-25 Sun 10:00]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-25 Sun 10:00]
+- State "DONE"       from "TODO"       [2026-01-22 Thu 09:30]
+:END:
+Check soil moisture before watering
+
+* TODO Backup important files
+SCHEDULED: <2026-01-26 Mon +1w>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2026-01-19 Mon 14:00]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-19 Mon 14:00]
+- State "DONE"       from "TODO"       [2026-01-12 Mon 15:30]
+:END:
+Weekly backup to external drive and cloud
+
+* TODO Review weekly goals
+SCHEDULED: <2026-01-26 Mon ++1w>
+:PROPERTIES:
+:STYLE: habit
+:END:
+Sunday evening planning session. Uses ++ to always stay on Sunday.
+
+* TODO Clean desk
+SCHEDULED: <2026-01-27 Tue .+2d/4d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+Tidy workspace. Flexible: every 2-4 days.
+
+* TODO Take vitamins
+SCHEDULED: <2026-01-26 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2026-01-25 Sun 08:00]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-25 Sun 08:00]
+- State "DONE"       from "TODO"       [2026-01-24 Sat 08:15]
+- State "DONE"       from "TODO"       [2026-01-23 Fri 07:45]
+- State "DONE"       from "TODO"       [2026-01-22 Thu 08:00]
+- State "DONE"       from "TODO"       [2026-01-21 Wed 08:30]
+:END:
+
+* TODO Check calendar for tomorrow
+SCHEDULED: <2026-01-26 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+Evening review of next day's schedule
