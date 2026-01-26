@@ -1,20 +1,20 @@
 * TODO Morning exercise
-SCHEDULED: <2026-01-26 Sun>
+SCHEDULED: <2026-01-26 Sun +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
 * TODO Read for 30 minutes
-SCHEDULED: <2026-01-26 Sun>
+SCHEDULED: <2026-01-26 Sun +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
 * TODO Practice coding
-SCHEDULED: <2026-01-26 Sun>
+SCHEDULED: <2026-01-26 Sun +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
 * TODO Daily meditation
-SCHEDULED: <2026-01-26 Sun>
+SCHEDULED: <2026-01-26 Sun +1d>
 :PROPERTIES:
 :STYLE: habit
 :END:
