@@ -1,0 +1,598 @@
+#+TITLE: Habits
+
+* Regular Habits (standard org-habit)
+
+** TODO Morning exercise
+SCHEDULED: <2026-01-28 Tue +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 06:30]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 07:00]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 08:15]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 06:45]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 07:00]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 07:15]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 06:45]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 07:30]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 08:00]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 06:30]
+- State "DONE"       from "TODO"       [2026-01-16 Thu 07:00]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 06:45]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 07:15]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 06:30]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 07:45]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 08:00]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 06:30]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 07:00]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 06:45]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 07:15]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 06:30]
+:END:
+30 minutes of cardio or strength training
+
+** TODO Practice coding
+SCHEDULED: <2026-01-28 Tue +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 20:00]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 19:30]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 21:00]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 20:15]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 19:45]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 20:30]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 19:00]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 20:45]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 19:30]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 20:00]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 19:15]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 20:30]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 19:45]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 20:00]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 19:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 20:15]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 19:00]
+:END:
+Work on side projects or algorithm challenges
+
+** TODO Daily meditation
+SCHEDULED: <2026-01-28 Tue +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 06:00]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 06:15]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 06:30]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 06:00]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 06:15]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 06:00]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 06:30]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 06:00]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 06:45]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 07:00]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 06:15]
+- State "DONE"       from "TODO"       [2026-01-16 Thu 06:00]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 06:00]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 06:15]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 06:45]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 07:00]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 06:00]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 06:15]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 06:00]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 06:15]
+:END:
+10-15 minutes mindfulness practice
+
+** TODO Review inbox zero
+SCHEDULED: <2026-01-28 Tue +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 09:00]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 10:30]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 09:15]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 09:00]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 09:30]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 09:00]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 09:15]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 09:00]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 09:30]
+- State "DONE"       from "TODO"       [2026-01-16 Thu 09:00]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 09:15]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 09:00]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 09:30]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 09:00]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 09:15]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 09:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 09:00]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 09:15]
+:END:
+Process email and messages
+
+** TODO Water plants
+SCHEDULED: <2026-01-29 Wed +3d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-26 Sun 10:00]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 09:30]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 10:15]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 09:45]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 10:00]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 09:30]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 10:00]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 09:45]
+- State "DONE"       from "TODO"       [2026-01-02 Thu 10:15]
+- State "DONE"       from "TODO"       [2025-12-30 Tue 09:30]
+:END:
+Check soil moisture before watering
+
+** TODO Backup important files
+SCHEDULED: <2026-02-02 Sun +1w>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-26 Sun 15:00]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 14:30]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 15:15]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 14:45]
+- State "DONE"       from "TODO"       [2025-12-29 Sun 15:00]
+- State "DONE"       from "TODO"       [2025-12-22 Sun 14:30]
+- State "DONE"       from "TODO"       [2025-12-15 Sun 15:15]
+- State "DONE"       from "TODO"       [2025-12-08 Sun 14:45]
+:END:
+Weekly backup to external drive and cloud
+
+** TODO Review weekly goals
+SCHEDULED: <2026-02-02 Sun +1w>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-26 Sun 18:00]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 17:30]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 18:15]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 17:45]
+- State "DONE"       from "TODO"       [2025-12-29 Sun 18:00]
+- State "DONE"       from "TODO"       [2025-12-22 Sun 17:30]
+- State "DONE"       from "TODO"       [2025-12-15 Sun 18:15]
+- State "DONE"       from "TODO"       [2025-12-08 Sun 17:45]
+:END:
+Sunday evening planning session
+
+** TODO Clean desk
+SCHEDULED: <2026-01-29 Wed +2d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 17:00]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 16:30]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 17:15]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 16:45]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 17:00]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 16:30]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 17:00]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 16:45]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 17:15]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 16:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 17:00]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 16:45]
+:END:
+Tidy workspace
+
+** TODO Take vitamins
+SCHEDULED: <2026-01-28 Tue +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 07:30]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 08:00]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 07:45]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 07:30]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 07:45]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 07:30]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 07:45]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 07:30]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 08:15]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 07:45]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 07:30]
+- State "DONE"       from "TODO"       [2026-01-16 Thu 07:45]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 07:30]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 07:45]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 07:30]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 08:00]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 07:45]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 07:30]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 07:45]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 07:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 07:45]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 07:30]
+:END:
+
+** TODO Check calendar for tomorrow
+SCHEDULED: <2026-01-28 Tue +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 21:00]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 21:30]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 21:15]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 21:00]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 21:30]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 21:00]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 21:15]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 21:00]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 21:45]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 21:30]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 21:00]
+- State "DONE"       from "TODO"       [2026-01-16 Thu 21:15]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 21:00]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 21:30]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 21:15]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 21:45]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 21:00]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 21:30]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 21:15]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 21:00]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 21:30]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 21:00]
+:END:
+Evening review of next day's schedule
+
+* Window Habits (org-window-habit)
+
+** TODO Exercise daily
+DEADLINE: <2026-01-28 Tue .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_ASSESSMENT_INTERVAL: 1d
+:OWH_WINDOW_DURATION: 7d
+:OWH_REPETITIONS_REQUIRED: 5
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 07:30]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 08:15]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 06:45]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 07:00]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 07:15]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 09:00]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 06:45]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 07:30]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 07:00]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 08:30]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 06:45]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 07:15]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 07:00]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 06:45]
+- State "DONE"       from "TODO"       [2026-01-04 Sat 08:00]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 07:30]
+- State "DONE"       from "TODO"       [2026-01-01 Wed 06:45]
+- State "DONE"       from "TODO"       [2025-12-31 Tue 07:00]
+- State "DONE"       from "TODO"       [2025-12-30 Mon 06:30]
+:END:
+Track daily exercise - aim for 5 times per week.
+
+** TODO Meditate
+DEADLINE: <2026-01-28 Tue .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_ASSESSMENT_INTERVAL: 1d
+:OWH_WINDOW_DURATION: 3d
+:OWH_REPETITIONS_REQUIRED: 2
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 06:00]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 06:15]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 06:00]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 06:30]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 06:00]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 06:45]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 06:00]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 06:15]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 06:00]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 06:30]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 07:00]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 06:00]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 06:15]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 06:00]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 06:45]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 06:00]
+- State "DONE"       from "TODO"       [2026-01-02 Thu 06:15]
+:END:
+Short meditation session - 2 out of every 3 days.
+
+** TODO Read for 30 minutes (window)
+DEADLINE: <2026-01-28 Tue .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_ASSESSMENT_INTERVAL: 1d
+:OWH_WINDOW_DURATION: 7d
+:OWH_REPETITIONS_REQUIRED: 4
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 21:00]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 22:30]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 21:15]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 22:00]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 20:30]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 21:45]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 22:00]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 21:30]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 20:00]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 22:15]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 21:00]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 21:45]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 22:00]
+- State "DONE"       from "TODO"       [2026-01-01 Wed 21:30]
+- State "DONE"       from "TODO"       [2025-12-30 Mon 20:15]
+- State "DONE"       from "TODO"       [2025-12-28 Sat 21:00]
+:END:
+Read books or articles - 4 times per week minimum.
+
+** TODO Deep work session
+DEADLINE: <2026-01-28 Tue .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_ASSESSMENT_INTERVAL: 1d
+:OWH_WINDOW_DURATION: 5d
+:OWH_REPETITIONS_REQUIRED: 3
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 10:00]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 09:30]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 10:15]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 09:00]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 10:30]
+- State "DONE"       from "TODO"       [2026-01-16 Thu 09:45]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 10:00]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 09:15]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 10:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 09:00]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 10:15]
+- State "DONE"       from "TODO"       [2026-01-02 Thu 09:30]
+:END:
+Focused deep work - 3 sessions per work week.
+
+* Advanced Window Habits (complex specs)
+
+** TODO Gym - MWF only
+DEADLINE: <2026-01-29 Wed .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 3
+:OWH_ONLY_DAYS: (:monday :wednesday :friday)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 18:00]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 17:30]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 18:15]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 17:45]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 18:00]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 17:30]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 18:00]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 17:45]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 18:15]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 17:30]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 18:00]
+- State "DONE"       from "TODO"       [2026-01-01 Wed 17:45]
+- State "DONE"       from "TODO"       [2025-12-30 Mon 18:15]
+- State "DONE"       from "TODO"       [2025-12-27 Fri 17:30]
+- State "DONE"       from "TODO"       [2025-12-24 Wed 18:00]
+- State "DONE"       from "TODO"       [2025-12-22 Mon 17:45]
+:END:
+Strength training - only counts on Monday, Wednesday, Friday.
+
+** TODO Weekly review (week-aligned)
+DEADLINE: <2026-02-03 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:weeks 1 :start :monday)
+:OWH_REPETITIONS_REQUIRED: 1
+:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :monday)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 16:00]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 15:30]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 16:15]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 15:45]
+- State "DONE"       from "TODO"       [2025-12-30 Mon 16:00]
+- State "DONE"       from "TODO"       [2025-12-23 Mon 15:30]
+- State "DONE"       from "TODO"       [2025-12-16 Mon 16:15]
+- State "DONE"       from "TODO"       [2025-12-09 Mon 15:45]
+- State "DONE"       from "TODO"       [2025-12-02 Mon 16:00]
+- State "DONE"       from "TODO"       [2025-11-25 Mon 15:30]
+:END:
+Week-aligned Monday review - weekly assessment, weekly window.
+
+** TODO Read books monthly
+DEADLINE: <2026-02-01 Sat .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:months 1)
+:OWH_REPETITIONS_REQUIRED: 4
+:OWH_ASSESSMENT_INTERVAL: (:months 1)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-25 Sat 14:00]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 13:30]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 14:15]
+- State "DONE"       from "TODO"       [2026-01-04 Sat 13:45]
+- State "DONE"       from "TODO"       [2025-12-28 Sat 14:00]
+- State "DONE"       from "TODO"       [2025-12-21 Sat 13:30]
+- State "DONE"       from "TODO"       [2025-12-14 Sat 14:15]
+- State "DONE"       from "TODO"       [2025-12-07 Sat 13:45]
+- State "DONE"       from "TODO"       [2025-11-29 Sat 14:00]
+- State "DONE"       from "TODO"       [2025-11-22 Sat 13:30]
+- State "DONE"       from "TODO"       [2025-11-15 Sat 14:15]
+- State "DONE"       from "TODO"       [2025-11-08 Sat 13:45]
+- State "DONE"       from "TODO"       [2025-10-25 Sat 14:00]
+- State "DONE"       from "TODO"       [2025-10-18 Sat 13:30]
+- State "DONE"       from "TODO"       [2025-10-11 Sat 14:15]
+- State "DONE"       from "TODO"       [2025-10-04 Sat 13:45]
+:END:
+Finish 4 books per month - monthly window, monthly assessment.
+
+** TODO Creative project check-in
+DEADLINE: <2026-01-31 Fri .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_WINDOW_DURATION: 8d
+:OWH_REPETITIONS_REQUIRED: 2
+:OWH_ASSESSMENT_INTERVAL: 4d
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 11:00]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 10:30]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 11:15]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 10:45]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 11:00]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 10:30]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 11:15]
+- State "DONE"       from "TODO"       [2025-12-30 Mon 10:45]
+- State "DONE"       from "TODO"       [2025-12-26 Thu 11:00]
+- State "DONE"       from "TODO"       [2025-12-22 Sun 10:30]
+- State "DONE"       from "TODO"       [2025-12-18 Wed 11:15]
+- State "DONE"       from "TODO"       [2025-12-14 Sat 10:45]
+:END:
+Work on creative project - 4 day assessment, 8 day window (need 2 in 8 days).
+
+** TODO Balanced fitness (multiple windows)
+DEADLINE: <2026-01-28 Tue .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_WINDOW_SPECS: ((:duration (:days 4) :repetitions 1) (:duration (:days 8) :repetitions 3))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 07:00]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 07:30]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 06:45]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 07:15]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 07:00]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 07:30]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 06:45]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 07:15]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 07:00]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 07:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 06:45]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 07:15]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 07:00]
+- State "DONE"       from "TODO"       [2026-01-01 Wed 07:30]
+- State "DONE"       from "TODO"       [2025-12-30 Mon 06:45]
+- State "DONE"       from "TODO"       [2025-12-28 Sat 07:15]
+- State "DONE"       from "TODO"       [2025-12-26 Thu 07:00]
+- State "DONE"       from "TODO"       [2025-12-24 Tue 07:30]
+:END:
+Multiple window specs: at least 1 in 4 days AND at least 3 in 8 days.
+
+** TODO Weekend meal prep
+DEADLINE: <2026-02-01 Sat .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_WINDOW_DURATION: 1w
+:OWH_REPETITIONS_REQUIRED: 1
+:OWH_ONLY_DAYS: (:saturday :sunday)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-26 Sun 11:00]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 10:30]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 11:15]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 10:45]
+- State "DONE"       from "TODO"       [2025-12-28 Sat 11:00]
+- State "DONE"       from "TODO"       [2025-12-21 Sun 10:30]
+- State "DONE"       from "TODO"       [2025-12-14 Sat 11:15]
+- State "DONE"       from "TODO"       [2025-12-07 Sun 10:45]
+- State "DONE"       from "TODO"       [2025-11-30 Sun 11:00]
+- State "DONE"       from "TODO"       [2025-11-22 Sat 10:30]
+:END:
+Prep meals for the week - only on weekends.
+
+** TODO Language practice (strict + flexible)
+DEADLINE: <2026-01-28 Tue .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_WINDOW_SPECS: ((:duration (:days 2) :repetitions 1) (:duration (:days 7) :repetitions 5))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-27 Mon 19:00]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 18:30]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 19:15]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 18:45]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 19:00]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 18:30]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 19:00]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 18:15]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 19:30]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 18:45]
+- State "DONE"       from "TODO"       [2026-01-16 Thu 19:00]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 18:30]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 19:15]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 18:00]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 19:30]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 18:45]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 19:00]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 18:30]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 19:00]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 18:15]
+- State "DONE"       from "TODO"       [2026-01-04 Sat 19:30]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 18:45]
+- State "DONE"       from "TODO"       [2026-01-02 Thu 19:00]
+- State "DONE"       from "TODO"       [2025-12-31 Tue 18:30]
+- State "DONE"       from "TODO"       [2025-12-30 Mon 19:00]
+:END:
+Multiple windows: never skip more than 1 day (1 in 2 days) AND 5 per week.
+
+** TODO Monthly financial review
+DEADLINE: <2026-02-01 Sat .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:months 1)
+:OWH_REPETITIONS_REQUIRED: 1
+:OWH_ASSESSMENT_INTERVAL: (:months 1)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-15 Wed 20:00]
+- State "DONE"       from "TODO"       [2025-12-20 Sat 19:30]
+- State "DONE"       from "TODO"       [2025-11-18 Tue 20:15]
+- State "DONE"       from "TODO"       [2025-10-22 Wed 19:45]
+- State "DONE"       from "TODO"       [2025-09-17 Wed 20:00]
+- State "DONE"       from "TODO"       [2025-08-19 Tue 19:30]
+- State "DONE"       from "TODO"       [2025-07-21 Mon 20:15]
+- State "DONE"       from "TODO"       [2025-06-18 Wed 19:45]
+:END:
+Review budget, investments, bills - once per calendar month.
+
+** TODO Quarterly goal check
+DEADLINE: <2026-04-01 Wed .+1d>
+:PROPERTIES:
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:months 3)
+:OWH_REPETITIONS_REQUIRED: 1
+:OWH_ASSESSMENT_INTERVAL: (:months 3)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-05 Sun 15:00]
+- State "DONE"       from "TODO"       [2025-10-12 Sun 14:30]
+- State "DONE"       from "TODO"       [2025-07-08 Tue 15:15]
+- State "DONE"       from "TODO"       [2025-04-15 Tue 14:45]
+- State "DONE"       from "TODO"       [2025-01-10 Fri 15:00]
+- State "DONE"       from "TODO"       [2024-10-20 Sun 14:30]
+:END:
+Big picture review - quarterly window and quarterly assessment.
