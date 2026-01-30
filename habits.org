@@ -1,126 +1,183 @@
 #+TITLE: Habits
 
-* Window Habits (org-window-habit)
 
-** TODO Exercise daily
-DEADLINE: <2026-01-28 Tue .+1d>
-:PROPERTIES:
-:ID: 70019e49-8d76-487b-beb8-e538600e0794
-:STYLE: habit
-:OWH_ASSESSMENT_INTERVAL: 1d
-:OWH_WINDOW_DURATION: 7d
-:OWH_REPETITIONS_REQUIRED: 5
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-27 Mon 07:30]
-- State "DONE"       from "TODO"       [2026-01-26 Sun 08:15]
-- State "DONE"       from "TODO"       [2026-01-25 Sat 06:45]
-- State "DONE"       from "TODO"       [2026-01-24 Fri 07:00]
-- State "DONE"       from "TODO"       [2026-01-22 Wed 06:30]
-- State "DONE"       from "TODO"       [2026-01-21 Tue 07:15]
-- State "DONE"       from "TODO"       [2026-01-20 Mon 09:00]
-- State "DONE"       from "TODO"       [2026-01-18 Sat 06:45]
-- State "DONE"       from "TODO"       [2026-01-17 Fri 07:30]
-- State "DONE"       from "TODO"       [2026-01-15 Wed 06:30]
-- State "DONE"       from "TODO"       [2026-01-14 Tue 07:00]
-- State "DONE"       from "TODO"       [2026-01-13 Mon 08:30]
-- State "DONE"       from "TODO"       [2026-01-11 Sat 06:45]
-- State "DONE"       from "TODO"       [2026-01-10 Fri 07:15]
-- State "DONE"       from "TODO"       [2026-01-08 Wed 06:30]
-- State "DONE"       from "TODO"       [2026-01-07 Tue 07:00]
-- State "DONE"       from "TODO"       [2026-01-06 Mon 06:45]
-- State "DONE"       from "TODO"       [2026-01-04 Sat 08:00]
-- State "DONE"       from "TODO"       [2026-01-03 Fri 07:30]
-- State "DONE"       from "TODO"       [2026-01-01 Wed 06:45]
-- State "DONE"       from "TODO"       [2025-12-31 Tue 07:00]
-- State "DONE"       from "TODO"       [2025-12-30 Mon 06:30]
-:END:
-Track daily exercise - aim for 5 times per week.
+* Aligned Assessment Windows (partly in future)
+These habits have aligned assessment intervals where the current assessment
+period extends into the future (e.g., week-aligned on Wednesday means the
+assessment runs Monday-Sunday, with Thu-Sun still in the future).
 
-** TODO Meditate
-DEADLINE: <2026-01-28 Tue .+1d>
+** TODO Week-aligned check-in (assessment extends to Sunday)
+DEADLINE: <2026-02-02 Mon .+1d>
 :PROPERTIES:
-:ID: 706221ce-3d63-4fc9-a60f-42bb64d29ea7
+:ID: a1b2c3d4-week-aligned-future-test-01
 :STYLE: habit
-:OWH_ASSESSMENT_INTERVAL: 1d
-:OWH_WINDOW_DURATION: 3d
-:OWH_REPETITIONS_REQUIRED: 2
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-27 Mon 06:00]
-- State "DONE"       from "TODO"       [2026-01-26 Sun 06:15]
-- State "DONE"       from "TODO"       [2026-01-24 Fri 06:00]
-- State "DONE"       from "TODO"       [2026-01-23 Thu 06:30]
-- State "DONE"       from "TODO"       [2026-01-21 Tue 06:00]
-- State "DONE"       from "TODO"       [2026-01-20 Mon 06:45]
-- State "DONE"       from "TODO"       [2026-01-18 Sat 06:00]
-- State "DONE"       from "TODO"       [2026-01-17 Fri 06:15]
-- State "DONE"       from "TODO"       [2026-01-15 Wed 06:00]
-- State "DONE"       from "TODO"       [2026-01-14 Tue 06:30]
-- State "DONE"       from "TODO"       [2026-01-12 Sun 07:00]
-- State "DONE"       from "TODO"       [2026-01-11 Sat 06:00]
-- State "DONE"       from "TODO"       [2026-01-09 Thu 06:15]
-- State "DONE"       from "TODO"       [2026-01-08 Wed 06:30]
-- State "DONE"       from "TODO"       [2026-01-06 Mon 06:00]
-- State "DONE"       from "TODO"       [2026-01-05 Sun 06:45]
-- State "DONE"       from "TODO"       [2026-01-03 Fri 06:00]
-- State "DONE"       from "TODO"       [2026-01-02 Thu 06:15]
-:END:
-Short meditation session - 2 out of every 3 days.
-
-** TODO Read for 30 minutes (window)
-DEADLINE: <2026-01-28 Tue .+1d>
-:PROPERTIES:
-:ID: 2c511811-f713-4464-a3e0-268f51a1fcfc
-:STYLE: habit
-:OWH_ASSESSMENT_INTERVAL: 1d
-:OWH_WINDOW_DURATION: 7d
-:OWH_REPETITIONS_REQUIRED: 4
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-27 Mon 21:00]
-- State "DONE"       from "TODO"       [2026-01-25 Sat 22:30]
-- State "DONE"       from "TODO"       [2026-01-23 Thu 21:15]
-- State "DONE"       from "TODO"       [2026-01-21 Tue 22:00]
-- State "DONE"       from "TODO"       [2026-01-19 Sun 20:30]
-- State "DONE"       from "TODO"       [2026-01-17 Fri 21:45]
-- State "DONE"       from "TODO"       [2026-01-15 Wed 22:00]
-- State "DONE"       from "TODO"       [2026-01-13 Mon 21:30]
-- State "DONE"       from "TODO"       [2026-01-11 Sat 20:00]
-- State "DONE"       from "TODO"       [2026-01-09 Thu 22:15]
-- State "DONE"       from "TODO"       [2026-01-07 Tue 21:00]
-- State "DONE"       from "TODO"       [2026-01-05 Sun 21:45]
-- State "DONE"       from "TODO"       [2026-01-03 Fri 22:00]
-- State "DONE"       from "TODO"       [2026-01-01 Wed 21:30]
-- State "DONE"       from "TODO"       [2025-12-30 Mon 20:15]
-- State "DONE"       from "TODO"       [2025-12-28 Sat 21:00]
-:END:
-Read books or articles - 4 times per week minimum.
-
-** TODO Deep work session
-DEADLINE: <2026-01-28 Tue .+1d>
-:PROPERTIES:
-:ID: 0b904439-00f1-4fa4-8482-ed09dbf3c7a4
-:STYLE: habit
-:OWH_ASSESSMENT_INTERVAL: 1d
-:OWH_WINDOW_DURATION: 5d
+:OWH_WINDOW_DURATION: (:weeks 1 :start :monday)
 :OWH_REPETITIONS_REQUIRED: 3
+:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :monday)
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-27 Mon 10:00]
-- State "DONE"       from "TODO"       [2026-01-24 Fri 09:30]
-- State "DONE"       from "TODO"       [2026-01-23 Thu 10:15]
-- State "DONE"       from "TODO"       [2026-01-21 Tue 09:00]
-- State "DONE"       from "TODO"       [2026-01-17 Fri 10:30]
-- State "DONE"       from "TODO"       [2026-01-16 Thu 09:45]
-- State "DONE"       from "TODO"       [2026-01-14 Tue 10:00]
-- State "DONE"       from "TODO"       [2026-01-10 Fri 09:15]
-- State "DONE"       from "TODO"       [2026-01-09 Thu 10:30]
-- State "DONE"       from "TODO"       [2026-01-07 Tue 09:00]
-- State "DONE"       from "TODO"       [2026-01-03 Fri 10:15]
-- State "DONE"       from "TODO"       [2026-01-02 Thu 09:30]
+- State "DONE"       from "TODO"       [2026-01-28 Tue 10:00]
+- State "DONE"       from "TODO"       [2026-01-27 Mon 09:30]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 10:15]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 09:45]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 10:00]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 09:30]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 10:15]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 09:45]
 :END:
-Focused deep work - 3 sessions per work week.
+Week-aligned (Monday start): current assessment is Mon Jan 27 - Sun Feb 2.
+Today (Thu Jan 30), the assessment window extends 3 days into the future.
+Need 3 completions per week; currently have 2 this week (Mon, Tue).
+
+** TODO Sunday-aligned reflection (future extends to Saturday)
+DEADLINE: <2026-02-01 Sat .+1d>
+:PROPERTIES:
+:ID: a1b2c3d4-sunday-aligned-future-test-02
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:weeks 1 :start :sunday)
+:OWH_REPETITIONS_REQUIRED: 2
+:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :sunday)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-29 Wed 20:00]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 19:30]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 20:15]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 19:45]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 20:00]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 19:30]
+:END:
+Sunday-aligned week: current assessment is Sun Jan 26 - Sat Feb 1.
+Today (Thu Jan 30), the assessment extends 2 days into the future.
+Need 2 completions; have 2 this week (Sun, Wed) - already conforming!
+
+** TODO Month-aligned savings (assessment extends to month end)
+DEADLINE: <2026-02-01 Sat .+1d>
+:PROPERTIES:
+:ID: a1b2c3d4-month-aligned-future-test-03
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:months 1)
+:OWH_REPETITIONS_REQUIRED: 4
+:OWH_ASSESSMENT_INTERVAL: (:months 1)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-25 Sat 11:00]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 10:30]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 11:15]
+- State "DONE"       from "TODO"       [2026-01-04 Sat 10:45]
+- State "DONE"       from "TODO"       [2025-12-28 Sat 11:00]
+- State "DONE"       from "TODO"       [2025-12-21 Sat 10:30]
+- State "DONE"       from "TODO"       [2025-12-14 Sat 11:15]
+- State "DONE"       from "TODO"       [2025-12-07 Sat 10:45]
+:END:
+Monthly assessment (Jan 1 - Jan 31). Today is Jan 30, so 1 day of the
+current assessment is in the future. Need 4/month; have 4 this month.
+
+** TODO Biweekly review with week-aligned assessment
+DEADLINE: <2026-02-03 Mon .+1d>
+:PROPERTIES:
+:ID: a1b2c3d4-biweekly-aligned-future-test-04
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:days 14)
+:OWH_REPETITIONS_REQUIRED: 4
+:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :monday)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-29 Wed 14:00]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 13:30]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 14:15]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 13:45]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 14:00]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 13:30]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 14:15]
+- State "DONE"       from "TODO"       [2026-01-04 Sat 13:45]
+:END:
+14-day rolling window BUT week-aligned assessment. Assessed weekly (Mon-Sun)
+but window looks back 14 days. Assessment extends into future (to Sunday).
+
+** TODO Friday-aligned prep (weekend extends into future)
+DEADLINE: <2026-01-31 Fri .+1d>
+:PROPERTIES:
+:ID: a1b2c3d4-friday-aligned-future-test-05
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:weeks 1 :start :friday)
+:OWH_REPETITIONS_REQUIRED: 2
+:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :friday)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-26 Sun 16:00]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 15:30]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 16:15]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 15:45]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 16:00]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 15:30]
+:END:
+Friday-aligned week (Fri-Thu). Current assessment is Fri Jan 24 - Thu Jan 30.
+Today (Thu Jan 30) is the LAST day of the assessment - minimal future overlap.
+Need 2 completions; have 2 (Fri, Sun).
+
+** TODO Wednesday-aligned mid-week (assessment straddles today)
+DEADLINE: <2026-02-04 Tue .+1d>
+:PROPERTIES:
+:ID: a1b2c3d4-wednesday-aligned-future-test-06
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:weeks 1 :start :wednesday)
+:OWH_REPETITIONS_REQUIRED: 3
+:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :wednesday)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-30 Thu 12:00]
+- State "DONE"       from "TODO"       [2026-01-29 Wed 11:30]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 12:15]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 11:45]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 12:00]
+- State "DONE"       from "TODO"       [2026-01-16 Thu 11:30]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 12:15]
+:END:
+Wednesday-aligned week (Wed-Tue). Current assessment is Wed Jan 29 - Tue Feb 4.
+Today (Thu Jan 30) is early in the assessment - 5 days extend into the future.
+Need 3 completions; have 2 so far (Wed, Thu).
+
+** TODO Quarterly with month-aligned assessment
+DEADLINE: <2026-04-01 Wed .+1d>
+:PROPERTIES:
+:ID: a1b2c3d4-quarterly-month-aligned-test-07
+:STYLE: habit
+:OWH_WINDOW_DURATION: (:months 3)
+:OWH_REPETITIONS_REQUIRED: 6
+:OWH_ASSESSMENT_INTERVAL: (:months 1)
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-28 Tue 17:00]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 16:30]
+- State "DONE"       from "TODO"       [2025-12-30 Tue 17:15]
+- State "DONE"       from "TODO"       [2025-12-16 Tue 16:45]
+- State "DONE"       from "TODO"       [2025-12-02 Tue 17:00]
+- State "DONE"       from "TODO"       [2025-11-18 Tue 16:30]
+- State "DONE"       from "TODO"       [2025-11-04 Tue 17:15]
+- State "DONE"       from "TODO"       [2025-10-21 Tue 16:45]
+:END:
+3-month rolling window (looks back 3 months) but assessed monthly.
+Current month assessment (Jan 1-31) extends 1 day into future.
+Need 6 completions in last 3 months.
+
+** TODO Semi-annual with quarterly assessment
+DEADLINE: <2026-04-01 Wed .+1d>
+:PROPERTIES:
+:ID: a1b2c3d4-semiannual-quarterly-test-08
+:STYLE: habit
+:OWH_CONFIG: (:window-specs ((:duration (:months 6) :repetitions 4)) :assessment-interval (:months 3))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-20 Mon 15:00]
+- State "DONE"       from "TODO"       [2025-11-15 Sat 14:30]
+- State "DONE"       from "TODO"       [2025-09-10 Wed 15:15]
+- State "DONE"       from "TODO"       [2025-07-05 Sat 14:45]
+- State "DONE"       from "TODO"       [2025-05-01 Thu 15:00]
+- State "DONE"       from "TODO"       [2025-03-01 Sat 14:30]
+:END:
+6-month window, quarterly assessment. Q1 2026 assessment (Jan-Mar) has
+~2 months extending into the future. Need 4 in 6 months.
+Using CONFIG format.
 
 * Advanced Window Habits (complex specs)
 
@@ -358,181 +415,124 @@ DEADLINE: <2026-04-01 Wed .+1d>
 :END:
 Big picture review - quarterly window and quarterly assessment.
 
-* Aligned Assessment Windows (partly in future)
-These habits have aligned assessment intervals where the current assessment
-period extends into the future (e.g., week-aligned on Wednesday means the
-assessment runs Monday-Sunday, with Thu-Sun still in the future).
-
-** TODO Week-aligned check-in (assessment extends to Sunday)
-DEADLINE: <2026-02-02 Mon .+1d>
+* Window Habits (org-window-habit)
+** TODO Exercise daily
+DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
-:ID: a1b2c3d4-week-aligned-future-test-01
+:ID: 70019e49-8d76-487b-beb8-e538600e0794
 :STYLE: habit
-:OWH_WINDOW_DURATION: (:weeks 1 :start :monday)
-:OWH_REPETITIONS_REQUIRED: 3
-:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :monday)
+:OWH_ASSESSMENT_INTERVAL: 1d
+:OWH_WINDOW_DURATION: 7d
+:OWH_REPETITIONS_REQUIRED: 5
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-28 Tue 10:00]
-- State "DONE"       from "TODO"       [2026-01-27 Mon 09:30]
-- State "DONE"       from "TODO"       [2026-01-21 Tue 10:15]
-- State "DONE"       from "TODO"       [2026-01-20 Mon 09:45]
-- State "DONE"       from "TODO"       [2026-01-17 Fri 10:00]
-- State "DONE"       from "TODO"       [2026-01-14 Tue 09:30]
-- State "DONE"       from "TODO"       [2026-01-13 Mon 10:15]
-- State "DONE"       from "TODO"       [2026-01-10 Fri 09:45]
+- State "DONE"       from "TODO"       [2026-01-27 Mon 07:30]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 08:15]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 06:45]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 07:00]
+- State "DONE"       from "TODO"       [2026-01-22 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 07:15]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 09:00]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 06:45]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 07:30]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 07:00]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 08:30]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 06:45]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 07:15]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 07:00]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 06:45]
+- State "DONE"       from "TODO"       [2026-01-04 Sat 08:00]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 07:30]
+- State "DONE"       from "TODO"       [2026-01-01 Wed 06:45]
+- State "DONE"       from "TODO"       [2025-12-31 Tue 07:00]
+- State "DONE"       from "TODO"       [2025-12-30 Mon 06:30]
 :END:
-Week-aligned (Monday start): current assessment is Mon Jan 27 - Sun Feb 2.
-Today (Thu Jan 30), the assessment window extends 3 days into the future.
-Need 3 completions per week; currently have 2 this week (Mon, Tue).
+Track daily exercise - aim for 5 times per week.
 
-** TODO Sunday-aligned reflection (future extends to Saturday)
-DEADLINE: <2026-02-01 Sat .+1d>
+** TODO Meditate
+DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
-:ID: a1b2c3d4-sunday-aligned-future-test-02
+:ID: 706221ce-3d63-4fc9-a60f-42bb64d29ea7
 :STYLE: habit
-:OWH_WINDOW_DURATION: (:weeks 1 :start :sunday)
+:OWH_ASSESSMENT_INTERVAL: 1d
+:OWH_WINDOW_DURATION: 3d
 :OWH_REPETITIONS_REQUIRED: 2
-:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :sunday)
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-29 Wed 20:00]
-- State "DONE"       from "TODO"       [2026-01-26 Sun 19:30]
-- State "DONE"       from "TODO"       [2026-01-22 Wed 20:15]
-- State "DONE"       from "TODO"       [2026-01-19 Sun 19:45]
-- State "DONE"       from "TODO"       [2026-01-15 Wed 20:00]
-- State "DONE"       from "TODO"       [2026-01-12 Sun 19:30]
+- State "DONE"       from "TODO"       [2026-01-27 Mon 06:00]
+- State "DONE"       from "TODO"       [2026-01-26 Sun 06:15]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 06:00]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 06:30]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 06:00]
+- State "DONE"       from "TODO"       [2026-01-20 Mon 06:45]
+- State "DONE"       from "TODO"       [2026-01-18 Sat 06:00]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 06:15]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 06:00]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 06:30]
+- State "DONE"       from "TODO"       [2026-01-12 Sun 07:00]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 06:00]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 06:15]
+- State "DONE"       from "TODO"       [2026-01-08 Wed 06:30]
+- State "DONE"       from "TODO"       [2026-01-06 Mon 06:00]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 06:45]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 06:00]
+- State "DONE"       from "TODO"       [2026-01-02 Thu 06:15]
 :END:
-Sunday-aligned week: current assessment is Sun Jan 26 - Sat Feb 1.
-Today (Thu Jan 30), the assessment extends 2 days into the future.
-Need 2 completions; have 2 this week (Sun, Wed) - already conforming!
+Short meditation session - 2 out of every 3 days.
 
-** TODO Month-aligned savings (assessment extends to month end)
-DEADLINE: <2026-02-01 Sat .+1d>
+** TODO Read for 30 minutes (window)
+DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
-:ID: a1b2c3d4-month-aligned-future-test-03
+:ID: 2c511811-f713-4464-a3e0-268f51a1fcfc
 :STYLE: habit
-:OWH_WINDOW_DURATION: (:months 1)
+:OWH_ASSESSMENT_INTERVAL: 1d
+:OWH_WINDOW_DURATION: 7d
 :OWH_REPETITIONS_REQUIRED: 4
-:OWH_ASSESSMENT_INTERVAL: (:months 1)
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-25 Sat 11:00]
-- State "DONE"       from "TODO"       [2026-01-18 Sat 10:30]
-- State "DONE"       from "TODO"       [2026-01-11 Sat 11:15]
-- State "DONE"       from "TODO"       [2026-01-04 Sat 10:45]
-- State "DONE"       from "TODO"       [2025-12-28 Sat 11:00]
-- State "DONE"       from "TODO"       [2025-12-21 Sat 10:30]
-- State "DONE"       from "TODO"       [2025-12-14 Sat 11:15]
-- State "DONE"       from "TODO"       [2025-12-07 Sat 10:45]
+- State "DONE"       from "TODO"       [2026-01-27 Mon 21:00]
+- State "DONE"       from "TODO"       [2026-01-25 Sat 22:30]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 21:15]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 22:00]
+- State "DONE"       from "TODO"       [2026-01-19 Sun 20:30]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 21:45]
+- State "DONE"       from "TODO"       [2026-01-15 Wed 22:00]
+- State "DONE"       from "TODO"       [2026-01-13 Mon 21:30]
+- State "DONE"       from "TODO"       [2026-01-11 Sat 20:00]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 22:15]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 21:00]
+- State "DONE"       from "TODO"       [2026-01-05 Sun 21:45]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 22:00]
+- State "DONE"       from "TODO"       [2026-01-01 Wed 21:30]
+- State "DONE"       from "TODO"       [2025-12-30 Mon 20:15]
+- State "DONE"       from "TODO"       [2025-12-28 Sat 21:00]
 :END:
-Monthly assessment (Jan 1 - Jan 31). Today is Jan 30, so 1 day of the
-current assessment is in the future. Need 4/month; have 4 this month.
+Read books or articles - 4 times per week minimum.
 
-** TODO Biweekly review with week-aligned assessment
-DEADLINE: <2026-02-03 Mon .+1d>
+** TODO Deep work session
+DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
-:ID: a1b2c3d4-biweekly-aligned-future-test-04
+:ID: 0b904439-00f1-4fa4-8482-ed09dbf3c7a4
 :STYLE: habit
-:OWH_WINDOW_DURATION: (:days 14)
-:OWH_REPETITIONS_REQUIRED: 4
-:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :monday)
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-29 Wed 14:00]
-- State "DONE"       from "TODO"       [2026-01-25 Sat 13:30]
-- State "DONE"       from "TODO"       [2026-01-22 Wed 14:15]
-- State "DONE"       from "TODO"       [2026-01-18 Sat 13:45]
-- State "DONE"       from "TODO"       [2026-01-15 Wed 14:00]
-- State "DONE"       from "TODO"       [2026-01-11 Sat 13:30]
-- State "DONE"       from "TODO"       [2026-01-08 Wed 14:15]
-- State "DONE"       from "TODO"       [2026-01-04 Sat 13:45]
-:END:
-14-day rolling window BUT week-aligned assessment. Assessed weekly (Mon-Sun)
-but window looks back 14 days. Assessment extends into future (to Sunday).
-
-** TODO Friday-aligned prep (weekend extends into future)
-DEADLINE: <2026-01-31 Fri .+1d>
-:PROPERTIES:
-:ID: a1b2c3d4-friday-aligned-future-test-05
-:STYLE: habit
-:OWH_WINDOW_DURATION: (:weeks 1 :start :friday)
-:OWH_REPETITIONS_REQUIRED: 2
-:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :friday)
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-26 Sun 16:00]
-- State "DONE"       from "TODO"       [2026-01-24 Fri 15:30]
-- State "DONE"       from "TODO"       [2026-01-19 Sun 16:15]
-- State "DONE"       from "TODO"       [2026-01-17 Fri 15:45]
-- State "DONE"       from "TODO"       [2026-01-12 Sun 16:00]
-- State "DONE"       from "TODO"       [2026-01-10 Fri 15:30]
-:END:
-Friday-aligned week (Fri-Thu). Current assessment is Fri Jan 24 - Thu Jan 30.
-Today (Thu Jan 30) is the LAST day of the assessment - minimal future overlap.
-Need 2 completions; have 2 (Fri, Sun).
-
-** TODO Wednesday-aligned mid-week (assessment straddles today)
-DEADLINE: <2026-02-04 Tue .+1d>
-:PROPERTIES:
-:ID: a1b2c3d4-wednesday-aligned-future-test-06
-:STYLE: habit
-:OWH_WINDOW_DURATION: (:weeks 1 :start :wednesday)
+:OWH_ASSESSMENT_INTERVAL: 1d
+:OWH_WINDOW_DURATION: 5d
 :OWH_REPETITIONS_REQUIRED: 3
-:OWH_ASSESSMENT_INTERVAL: (:weeks 1 :start :wednesday)
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-30 Thu 12:00]
-- State "DONE"       from "TODO"       [2026-01-29 Wed 11:30]
-- State "DONE"       from "TODO"       [2026-01-23 Thu 12:15]
-- State "DONE"       from "TODO"       [2026-01-22 Wed 11:45]
-- State "DONE"       from "TODO"       [2026-01-20 Mon 12:00]
-- State "DONE"       from "TODO"       [2026-01-16 Thu 11:30]
-- State "DONE"       from "TODO"       [2026-01-15 Wed 12:15]
+- State "DONE"       from "TODO"       [2026-01-27 Mon 10:00]
+- State "DONE"       from "TODO"       [2026-01-24 Fri 09:30]
+- State "DONE"       from "TODO"       [2026-01-23 Thu 10:15]
+- State "DONE"       from "TODO"       [2026-01-21 Tue 09:00]
+- State "DONE"       from "TODO"       [2026-01-17 Fri 10:30]
+- State "DONE"       from "TODO"       [2026-01-16 Thu 09:45]
+- State "DONE"       from "TODO"       [2026-01-14 Tue 10:00]
+- State "DONE"       from "TODO"       [2026-01-10 Fri 09:15]
+- State "DONE"       from "TODO"       [2026-01-09 Thu 10:30]
+- State "DONE"       from "TODO"       [2026-01-07 Tue 09:00]
+- State "DONE"       from "TODO"       [2026-01-03 Fri 10:15]
+- State "DONE"       from "TODO"       [2026-01-02 Thu 09:30]
 :END:
-Wednesday-aligned week (Wed-Tue). Current assessment is Wed Jan 29 - Tue Feb 4.
-Today (Thu Jan 30) is early in the assessment - 5 days extend into the future.
-Need 3 completions; have 2 so far (Wed, Thu).
-
-** TODO Quarterly with month-aligned assessment
-DEADLINE: <2026-04-01 Wed .+1d>
-:PROPERTIES:
-:ID: a1b2c3d4-quarterly-month-aligned-test-07
-:STYLE: habit
-:OWH_WINDOW_DURATION: (:months 3)
-:OWH_REPETITIONS_REQUIRED: 6
-:OWH_ASSESSMENT_INTERVAL: (:months 1)
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-28 Tue 17:00]
-- State "DONE"       from "TODO"       [2026-01-14 Tue 16:30]
-- State "DONE"       from "TODO"       [2025-12-30 Tue 17:15]
-- State "DONE"       from "TODO"       [2025-12-16 Tue 16:45]
-- State "DONE"       from "TODO"       [2025-12-02 Tue 17:00]
-- State "DONE"       from "TODO"       [2025-11-18 Tue 16:30]
-- State "DONE"       from "TODO"       [2025-11-04 Tue 17:15]
-- State "DONE"       from "TODO"       [2025-10-21 Tue 16:45]
-:END:
-3-month rolling window (looks back 3 months) but assessed monthly.
-Current month assessment (Jan 1-31) extends 1 day into future.
-Need 6 completions in last 3 months.
-
-** TODO Semi-annual with quarterly assessment
-DEADLINE: <2026-04-01 Wed .+1d>
-:PROPERTIES:
-:ID: a1b2c3d4-semiannual-quarterly-test-08
-:STYLE: habit
-:OWH_CONFIG: (:window-specs ((:duration (:months 6) :repetitions 4)) :assessment-interval (:months 3))
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-20 Mon 15:00]
-- State "DONE"       from "TODO"       [2025-11-15 Sat 14:30]
-- State "DONE"       from "TODO"       [2025-09-10 Wed 15:15]
-- State "DONE"       from "TODO"       [2025-07-05 Sat 14:45]
-- State "DONE"       from "TODO"       [2025-05-01 Thu 15:00]
-- State "DONE"       from "TODO"       [2025-03-01 Sat 14:30]
-:END:
-6-month window, quarterly assessment. Q1 2026 assessment (Jan-Mar) has
-~2 months extending into the future. Need 4 in 6 months.
-Using CONFIG format.
+Focused deep work - 3 sessions per work week.
 
