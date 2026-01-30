@@ -3,7 +3,14 @@
 
 * Recurring Tasks
 ** TODO Weekly review
-SCHEDULED: <2026-01-26 Mon +1w>
+SCHEDULED: <2026-02-02 Mon +1w>
+:PROPERTIES:
+:ID:       fc294ccb-5244-4f35-8fbd-c2fe4473c71c
+:LAST_REPEAT: [2026-01-30 Fri 04:27]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-30 Fri 04:27]
+:END:
 Review accomplishments and plan next week
 
 ** TODO Pay rent
