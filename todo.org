@@ -26,7 +26,14 @@ SCHEDULED: <2026-01-27 Tue +3d>
 Every 3 days
 
 ** TODO Daily standup
-SCHEDULED: <2026-01-27 Tue .+1d>
+SCHEDULED: <2026-01-31 Sat .+1d>
+:PROPERTIES:
+:ID:       b6a3178a-df9d-4681-8f26-d4ed3663f35a
+:LAST_REPEAT: [2026-01-30 Fri 12:27]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-30 Fri 12:27]
+:END:
 9:30am team sync (restarts from completion)
 
 ** TODO Review subscriptions
