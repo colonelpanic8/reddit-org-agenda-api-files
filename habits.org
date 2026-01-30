@@ -5,6 +5,7 @@
 ** TODO Morning exercise
 SCHEDULED: <2026-01-28 Tue +1d>
 :PROPERTIES:
+:ID: 31360c97-f232-4fc5-aee3-8c942a6e9b63
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -36,6 +37,7 @@ SCHEDULED: <2026-01-28 Tue +1d>
 ** TODO Practice coding
 SCHEDULED: <2026-01-28 Tue +1d>
 :PROPERTIES:
+:ID: 97031038-aeaa-4ff7-b393-c76775148cb4
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -62,6 +64,7 @@ Work on side projects or algorithm challenges
 ** TODO Daily meditation
 SCHEDULED: <2026-01-28 Tue +1d>
 :PROPERTIES:
+:ID: 4d35afa6-1f05-4006-ab4c-b6ee42bf810f
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -93,6 +96,7 @@ SCHEDULED: <2026-01-28 Tue +1d>
 ** TODO Review inbox zero
 SCHEDULED: <2026-01-28 Tue +1d>
 :PROPERTIES:
+:ID: 6ae025d5-60d3-4565-9039-adb1141c9d07
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -120,6 +124,7 @@ Process email and messages
 ** TODO Water plants
 SCHEDULED: <2026-01-29 Wed +3d>
 :PROPERTIES:
+:ID: 57035571-c486-4b31-a5d8-a770c75f24f4
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -139,6 +144,7 @@ Check soil moisture before watering
 ** TODO Backup important files
 SCHEDULED: <2026-02-02 Sun +1w>
 :PROPERTIES:
+:ID: e9b73251-74dc-4e4f-8f1d-910fd6ab5ccb
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -156,6 +162,7 @@ Weekly backup to external drive and cloud
 ** TODO Review weekly goals
 SCHEDULED: <2026-02-02 Sun +1w>
 :PROPERTIES:
+:ID: 662e4ef2-5041-47d0-9bc9-a9620ac1c6fa
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -173,6 +180,7 @@ Sunday evening planning session
 ** TODO Clean desk
 SCHEDULED: <2026-01-29 Wed +2d>
 :PROPERTIES:
+:ID: ed60491e-14c0-4cad-abed-7342fdc5de5e
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -194,6 +202,7 @@ Tidy workspace
 ** TODO Take vitamins
 SCHEDULED: <2026-01-28 Tue +1d>
 :PROPERTIES:
+:ID: f020d98a-5d85-42e6-8937-c8bcc2e700a9
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -224,6 +233,7 @@ SCHEDULED: <2026-01-28 Tue +1d>
 ** TODO Check calendar for tomorrow
 SCHEDULED: <2026-01-28 Tue +1d>
 :PROPERTIES:
+:ID: 9d7729d9-8aa2-4a44-8170-1fb7cf75d89d
 :STYLE: habit
 :END:
 :LOGBOOK:
@@ -257,6 +267,7 @@ Evening review of next day's schedule
 ** TODO Exercise daily
 DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
+:ID: 70019e49-8d76-487b-beb8-e538600e0794
 :STYLE: habit
 :OWH_ASSESSMENT_INTERVAL: 1d
 :OWH_WINDOW_DURATION: 7d
@@ -291,6 +302,7 @@ Track daily exercise - aim for 5 times per week.
 ** TODO Meditate
 DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
+:ID: 706221ce-3d63-4fc9-a60f-42bb64d29ea7
 :STYLE: habit
 :OWH_ASSESSMENT_INTERVAL: 1d
 :OWH_WINDOW_DURATION: 3d
@@ -321,6 +333,7 @@ Short meditation session - 2 out of every 3 days.
 ** TODO Read for 30 minutes (window)
 DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
+:ID: 2c511811-f713-4464-a3e0-268f51a1fcfc
 :STYLE: habit
 :OWH_ASSESSMENT_INTERVAL: 1d
 :OWH_WINDOW_DURATION: 7d
@@ -349,6 +362,7 @@ Read books or articles - 4 times per week minimum.
 ** TODO Deep work session
 DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
+:ID: 0b904439-00f1-4fa4-8482-ed09dbf3c7a4
 :STYLE: habit
 :OWH_ASSESSMENT_INTERVAL: 1d
 :OWH_WINDOW_DURATION: 5d
@@ -375,6 +389,7 @@ Focused deep work - 3 sessions per work week.
 ** TODO Gym - MWF only
 DEADLINE: <2026-01-29 Wed .+1d>
 :PROPERTIES:
+:ID: 13dbb0fe-b851-4c8d-a37c-30b21f33d2c8
 :STYLE: habit
 :OWH_WINDOW_DURATION: 1w
 :OWH_REPETITIONS_REQUIRED: 3
@@ -403,6 +418,7 @@ Strength training - only counts on Monday, Wednesday, Friday.
 ** TODO Weekly review (week-aligned)
 DEADLINE: <2026-02-03 Mon .+1d>
 :PROPERTIES:
+:ID: 8d53d170-4de1-4fb0-b684-9934428bb120
 :STYLE: habit
 :OWH_WINDOW_DURATION: (:weeks 1 :start :monday)
 :OWH_REPETITIONS_REQUIRED: 1
@@ -425,6 +441,7 @@ Week-aligned Monday review - weekly assessment, weekly window.
 ** TODO Read books monthly
 DEADLINE: <2026-02-01 Sat .+1d>
 :PROPERTIES:
+:ID: 2bf53e18-3090-4916-8069-e56a761c5a51
 :STYLE: habit
 :OWH_WINDOW_DURATION: (:months 1)
 :OWH_REPETITIONS_REQUIRED: 4
@@ -453,6 +470,7 @@ Finish 4 books per month - monthly window, monthly assessment.
 ** TODO Creative project check-in
 DEADLINE: <2026-01-31 Fri .+1d>
 :PROPERTIES:
+:ID: e6001d11-e9bb-4b3d-a82f-e4d86367a797
 :STYLE: habit
 :OWH_WINDOW_DURATION: 8d
 :OWH_REPETITIONS_REQUIRED: 2
@@ -477,6 +495,7 @@ Work on creative project - 4 day assessment, 8 day window (need 2 in 8 days).
 ** TODO Balanced fitness (multiple windows)
 DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
+:ID: 6f05e92f-8271-4fbe-9176-43021a4e126a
 :STYLE: habit
 :OWH_WINDOW_SPECS: ((:duration (:days 4) :repetitions 1) (:duration (:days 8) :repetitions 3))
 :END:
@@ -505,6 +524,7 @@ Multiple window specs: at least 1 in 4 days AND at least 3 in 8 days.
 ** TODO Weekend meal prep
 DEADLINE: <2026-02-01 Sat .+1d>
 :PROPERTIES:
+:ID: 836aea94-b9da-403f-b9f2-c003af5e0980
 :STYLE: habit
 :OWH_WINDOW_DURATION: 1w
 :OWH_REPETITIONS_REQUIRED: 1
@@ -527,6 +547,7 @@ Prep meals for the week - only on weekends.
 ** TODO Language practice (strict + flexible)
 DEADLINE: <2026-01-28 Tue .+1d>
 :PROPERTIES:
+:ID: 70e4df64-edbb-4c5d-947a-b3d7b54bb5ad
 :STYLE: habit
 :OWH_WINDOW_SPECS: ((:duration (:days 2) :repetitions 1) (:duration (:days 7) :repetitions 5))
 :END:
@@ -562,6 +583,7 @@ Multiple windows: never skip more than 1 day (1 in 2 days) AND 5 per week.
 ** TODO Monthly financial review
 DEADLINE: <2026-02-01 Sat .+1d>
 :PROPERTIES:
+:ID: b13548f7-ee56-46bd-b4ce-4c6739ef8dbd
 :STYLE: habit
 :OWH_WINDOW_DURATION: (:months 1)
 :OWH_REPETITIONS_REQUIRED: 1
@@ -582,6 +604,7 @@ Review budget, investments, bills - once per calendar month.
 ** TODO Quarterly goal check
 DEADLINE: <2026-04-01 Wed .+1d>
 :PROPERTIES:
+:ID: d4d45956-fecf-4fc6-a206-30ceb2051521
 :STYLE: habit
 :OWH_WINDOW_DURATION: (:months 3)
 :OWH_REPETITIONS_REQUIRED: 1
