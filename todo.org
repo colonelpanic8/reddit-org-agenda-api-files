@@ -104,3 +104,4 @@ Ordered components for hardware project
 ** TODO Start a podcast
 * TODO Fix engine
 * TODO Fix engine
+* TODO Replace clutch plates
