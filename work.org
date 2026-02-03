@@ -4,7 +4,10 @@
 SCHEDULED: <2026-01-27 Tue>
 
 * TODO Prepare team meeting agenda
-SCHEDULED: <2026-01-27 Tue 09:00>
+SCHEDULED: <2026-01-28 Wed 09:00>
+:PROPERTIES:
+:ID:       0649a1f5-e39b-47fe-93f9-b870ad1e6a48
+:END:
 
 * TODO Weekly 1:1 with manager
 SCHEDULED: <2026-01-28 Wed 11:00 +1w>
