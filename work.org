@@ -23,3 +23,5 @@ Working on Q1 sprint breakdown
 
 * WAITING Vendor contract approval
 Pending legal review
+* TODO Lesson
+SCHEDULED: <2026-02-03 Tue>
