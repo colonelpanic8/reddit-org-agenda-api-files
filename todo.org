@@ -102,3 +102,4 @@ Ordered components for hardware project
 ** TODO Learn Rust
 ** TODO Build a mechanical keyboard
 ** TODO Start a podcast
+* TODO Fix engine
