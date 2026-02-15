@@ -21,8 +21,11 @@ First of each month
 SCHEDULED: <2026-02-01 Sun +3m>
 Quarterly safety check
 
-** TODO Water office plants
+** TODO Water office plastic plants
 SCHEDULED: <2026-01-27 Tue +3d>
+:PROPERTIES:
+:ID:       c52982c4-c9ae-4a87-b266-8536e46cbcf3
+:END:
 Every 3 days
 
 ** TODO Daily standup
