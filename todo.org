@@ -114,3 +114,5 @@ Ordered components for hardware project
 * TODO Fix engine
 * TODO Fix engine
 * TODO Replace clutch plates
+* TODO Truc a faire
+SCHEDULED: <2026-02-18 Wed 14:10 +1w>
