@@ -13,8 +13,11 @@ SCHEDULED: <2026-02-02 Mon +1w>
 :END:
 Review accomplishments and plan next week
 
-** TODO Pay rent
+** TODO Pay rent                                                     :crotte:
 SCHEDULED: <2026-02-01 Sun +1m>
+:PROPERTIES:
+:ID:       19ee80d7-ad8f-46ec-8445-c70cec1e9bfb
+:END:
 First of each month
 
 ** TODO Check smoke detectors
