@@ -100,8 +100,11 @@ Started working on OAuth2 integration
 Draft about org-mode workflows
 
 * Waiting
-** WAITING Feedback on design mockups
-SCHEDULED: <2026-01-20 Tue>
+** DONE Feedback on design mockups
+CLOSED: [2026-03-21 Sat 09:22] SCHEDULED: <2026-01-20 Tue>
+:PROPERTIES:
+:ID:       f71fb118-e101-425f-99d2-e0930b2b3094
+:END:
 Waiting for client response
 
 ** WAITING Parts delivery
